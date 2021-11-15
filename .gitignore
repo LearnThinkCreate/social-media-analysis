@@ -1,0 +1,11 @@
+data/*
+credentials/*
+tableauData/*
+.vscode/*
+.ipynb_checkpoints/*
+__pycache__/*
+.cache
+auth.pyc
+portfolio.code-workspace
+sample.*
+test.*
